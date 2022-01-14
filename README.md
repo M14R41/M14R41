@@ -5,7 +5,6 @@
 - 📫 How to reach me - [Contact](madhurendra85390@gmail.com)
 
 
-<script src="https://tryhackme.com/badge/676661"></script>
 
 
 
