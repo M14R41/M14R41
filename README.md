@@ -1,18 +1,76 @@
-- 👋 Hi, I’m @M14R41
-- 👀 I’m interested in Cyber security , Programming language
-- 🌱 I’m currently learning  Cyber security
-- 💞️ I’m looking to collaborate on Cyber security 
-- 📫 How to reach me - [Contact](madhurendra85390@gmail.com)
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Madhurendra</h1>
+<h3 align="center">I'm a passionate about cyber Security. <h3>
 
 
+## 🙋‍♂️ About Me
+
+- 🔭 I’m Cyber **Security enthusiast.**
+
+- 🌱 I’m currently preparing for **CEH-v11 and CEH Practicle.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects and Cyber Security**
+
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
+
+- 📫 How to reach me **madhurendra011@gmail.com**
+
+- ⚡ Fun fact **I enjoy learning new technology and growing together..**
+
+## 🚀 Languages and Tools:
+
+<p align="left">
+     <img src="https://img.icons8.com/ios-filled/43/000000/c.png"/>
+     <img src="https://img.icons8.com/color/46/000000/c-plus-plus-logo.png"/>
+     <img src="https://img.icons8.com/plasticine/48/000000/bash.png"/>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/46/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
+
+<br/>
+
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=m14r41&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m14r41&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
+<br/>
+<br/>
 
-<!---
-M14R41/M14R41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes
-<script src="https://tryhackme.com/badge/676661"></script>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=m14r41&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="center">
+
+<a href = "https://www.linkedin.com/in/m14r41/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/M14_R41"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
+</p>
 
---->
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=m14r41">
+</a>
+<a href="https://github.com/m14r41?tab=followers"><img src="https://img.shields.io/github/followers/m14r41?label=Followers&style=social" alt="GitHub Badge"></a>
